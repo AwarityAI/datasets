@@ -1,0 +1,40 @@
+﻿Absolutely! Here's a sample software license agreement for the SmartWind™ AI-driven control system:
+SMARTWIND™ AI-DRIVEN CONTROL SYSTEM END USER LICENSE AGREEMENT
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) ("Licensee") and UrbanWind Technologies, Inc. ("UrbanWind") for the SmartWind™ software, which includes any associated media, printed materials, and "online" or electronic documentation (collectively, the "Software"). By installing, copying, or otherwise using the Software, Licensee agrees to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the Software.  
+1. LICENSE GRANT:  
+
+
+* Single Use: UrbanWind grants Licensee a non-exclusive, non-transferable license to use one copy of the Software on a single compatible device for the sole purpose of controlling and optimizing an UrbanWind wind turbine connected to Licensee's home energy system.
+* No Modification: Licensee may not modify, reverse engineer, decompile, or disassemble the Software, or create derivative works based on the Software, except as permitted by applicable law.
+2. INTELLECTUAL PROPERTY:
+* Ownership: UrbanWind retains all title, ownership rights, and intellectual property rights in and to the Software. The Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.  
+
+* Restrictions: Licensee acknowledges that the Software contains valuable trade secrets and proprietary information of UrbanWind. Licensee shall not disclose or use such trade secrets or proprietary information for any purpose other than as permitted under this EULA.
+3. UPDATES AND SUPPORT:
+   * Updates: UrbanWind may, at its sole discretion, provide updates, upgrades, or patches to the Software. Licensee may install and use such updates, upgrades, or patches in accordance with the terms of this EULA.
+   * Support: UrbanWind may, at its sole discretion, provide technical support for the Software. Such support may be subject to additional terms and conditions.
+4. TERM AND TERMINATION:
+   * Term: This EULA is effective from the date Licensee first installs or uses the Software and shall continue until terminated as provided herein.
+   * Termination: UrbanWind may terminate this EULA at any time if Licensee breaches any of its terms. Upon termination, Licensee shall cease all use of the Software and destroy all copies.
+5. DISCLAIMER OF WARRANTIES:
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. URBANWIND DOES NOT WARRANT THAT THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS, OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.  
+
+
+6. LIMITATION OF LIABILITY:
+IN NO EVENT SHALL URBANWIND BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  
+
+
+7. GOVERNING LAW:
+This EULA shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws provisions.
+8. ENTIRE AGREEMENT:  
+
+
+This EULA constitutes the entire agreement between the parties and supersedes all prior or contemporaneous communications and proposals, whether oral or written, with respect to the Software.  
+
+
+By clicking "I Agree" or by installing or using the Software, you acknowledge that you have read this EULA, understand it, and agree to be bound by its terms and conditions.  
+
+
+UrbanWind Technologies, Inc. 1234 Innovation Dr. Suite 500, San Francisco, CA 94103 
+urbanwindtechnolgies.com
+3/24/22
